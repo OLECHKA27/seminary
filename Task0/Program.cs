@@ -1,4 +1,5 @@
 ﻿// Написать программу на вводе число на выводе квадрат числа
-int A = 5;
-Console.WriteLine (A^2);
+int A = -100;
+int KV=A*A;
+Console.WriteLine ($"Квадрат числа A = {KV}");
 

@@ -1,0 +1,14 @@
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\Task0\bin\Debug\net9.0\Task0.exe
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\Task0\bin\Debug\net9.0\Task0.deps.json
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\Task0\bin\Debug\net9.0\Task0.runtimeconfig.json
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\Task0\bin\Debug\net9.0\Task0.dll
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\Task0\bin\Debug\net9.0\Task0.pdb
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\Task0\obj\Debug\net9.0\Task0.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\Task0\obj\Debug\net9.0\Task0.AssemblyInfoInputs.cache
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\Task0\obj\Debug\net9.0\Task0.AssemblyInfo.cs
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\Task0\obj\Debug\net9.0\Task0.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\Task0\obj\Debug\net9.0\Task0.dll
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\Task0\obj\Debug\net9.0\refint\Task0.dll
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\Task0\obj\Debug\net9.0\Task0.pdb
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\Task0\obj\Debug\net9.0\Task0.genruntimeconfig.cache
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\Task0\obj\Debug\net9.0\ref\Task0.dll
