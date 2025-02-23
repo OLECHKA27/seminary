@@ -1,0 +1,15 @@
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\TaskDZ4\bin\Debug\net9.0\TaskDZ4.exe
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\TaskDZ4\bin\Debug\net9.0\TaskDZ4.deps.json
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\TaskDZ4\bin\Debug\net9.0\TaskDZ4.runtimeconfig.json
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\TaskDZ4\bin\Debug\net9.0\TaskDZ4.dll
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\TaskDZ4\bin\Debug\net9.0\TaskDZ4.pdb
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\TaskDZ4\obj\Debug\net9.0\TaskDZ4.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\TaskDZ4\obj\Debug\net9.0\TaskDZ4.AssemblyInfoInputs.cache
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\TaskDZ4\obj\Debug\net9.0\TaskDZ4.AssemblyInfo.cs
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\TaskDZ4\obj\Debug\net9.0\TaskDZ4.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\TaskDZ4\obj\Debug\net9.0\TaskDZ4.sourcelink.json
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\TaskDZ4\obj\Debug\net9.0\TaskDZ4.dll
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\TaskDZ4\obj\Debug\net9.0\refint\TaskDZ4.dll
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\TaskDZ4\obj\Debug\net9.0\TaskDZ4.pdb
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\TaskDZ4\obj\Debug\net9.0\TaskDZ4.genruntimeconfig.cache
+D:\УЧЕБА\Програмирование языки\семинары языки\LESSON1\TaskDZ4\obj\Debug\net9.0\ref\TaskDZ4.dll
